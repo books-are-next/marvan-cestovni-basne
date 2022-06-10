@@ -3,6 +3,8 @@ title: Mrtvý
 contentType: prose
 ---
 
+<section>
+
 _Ten klient  
 kterého našla ležet v posteli  
 měl klidný výraz člověka  
@@ -25,3 +27,5 @@ ať už ho nechají
 a oni že musí  
 dokud se nenajde ten papír  
 snad ho našli_
+
+</section>

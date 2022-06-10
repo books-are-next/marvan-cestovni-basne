@@ -3,6 +3,8 @@ title: "Jako bažina zavírající se mezi námi a\_sluncem"
 contentType: prose
 ---
 
+<section>
+
 _Proč tolik prcháme  
 školními třídami  
 pokoji ubytoven  
@@ -24,3 +26,5 @@ jako bažina zavírající se mezi námi a sluncem
 a proč tak málo lesních houštin  
 cizích jako svoboda jako bezpečí  
 jako my sami_
+
+</section>

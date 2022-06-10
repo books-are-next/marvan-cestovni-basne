@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Proč se všechny ty věci
@@ -15,3 +17,5 @@ můžeme jít vstříc
 aniž bychom udělali jediný krok  
 tichý telefon  
 láska je stvořena ze všeho kolem tebe_
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Vy kdož procházíte deštivou ulicí
@@ -30,3 +32,5 @@ protože u všech smrčků na zahradě není nic okolo a není
 nic uvnitř  
 to všechno jste vy  
 stejně jako já_
+
+</section>

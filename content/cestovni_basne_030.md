@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Je to jako průchod ruky papírovou stěnou
@@ -29,3 +31,5 @@ co se na ní stalo
 pak probuzení a běžím  
 k slzám nad zářivkami  
 mám plné zuby tohoto světa_
+
+</section>

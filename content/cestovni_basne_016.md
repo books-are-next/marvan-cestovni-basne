@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Je to jako vlny příliš nahlas puštěného rádia
@@ -24,3 +26,5 @@ ale lovit zvířata a válčit s nepřátelským kmenem kamennou sekerou nep
 i když to neseš jako křivdu  
 nechápu cos kde dělala od té doby  
 co jsme si jako mágové usekli hlavu na astrálním těle a platili za to_
+
+</section>

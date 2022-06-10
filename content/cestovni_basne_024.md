@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Dojděte až na konec
@@ -23,3 +25,5 @@ až k místu kde vás má každý rád
 tam kde se svítí  
 tam kde se přízraky radují  
 že mohou zemřít_
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Konec prázdnin
@@ -19,3 +21,5 @@ aby jejich lidství bylo zastrašováno uráženo tupeno
 až tam kde zmizí všechna krajina  
 kde zmizí svět  
 a zbudou jen civící oči_
+
+</section>

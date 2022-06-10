@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Někde uprostřed
@@ -26,3 +28,5 @@ můžeme takhle letět miliony let
 jen tenký pocit v srdci  
 jen to celé modré  
 víc nic_
+
+</section>

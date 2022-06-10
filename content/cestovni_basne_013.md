@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Světlo těch kteří se nikdy nevrátí
@@ -13,3 +15,5 @@ tak často
 ale kde (odpovídám si)  
 když všichni všechno udělali dobře  
 nebo jen já?_
+
+</section>

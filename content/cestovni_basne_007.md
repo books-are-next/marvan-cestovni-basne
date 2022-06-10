@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Usmívají se…
@@ -22,3 +24,5 @@ v tělech lidí
 přijmou můj záblesk jako přijali svůj  
 a budu moci zůstat  
 je to teď_
+
+</section>

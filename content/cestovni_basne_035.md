@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Skvrny světla na zdi protějšího domu
@@ -20,3 +22,5 @@ a nyní
 smrt se dá jednoduše přežít  
 v zrcadle není místo  
 pro nic jiného_
+
+</section>

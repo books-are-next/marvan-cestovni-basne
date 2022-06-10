@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Šel jsem domů
@@ -17,3 +19,5 @@ a padalo moře
 šel jsem domů  
 a ptal se proč tam nikdy nedojdu  
 když je to všude_
+
+</section>

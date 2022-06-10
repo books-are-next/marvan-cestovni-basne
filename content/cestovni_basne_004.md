@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Cestovní básně](https://search.mlp.cz/cz/titul/cestovni-basne/4492894/#/getPodobneTituly=deskriptory-eq:97604239-amp:key-eq:4492894) tak, jak bylo vydáno nakladatelstvím Dauphin v Praze v roce 2019. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 15. 10. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

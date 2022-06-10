@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Vrať se na začátek tou chodbou kterou jsi prošel
@@ -22,3 +24,5 @@ a schody k domovu se někde tam nahoře v mrtvém dřevě
 bortí jako hromada krabic  
 dokud jsou bohové v zrcadle mrtví  
 a děti ještě neumějí mluvit_
+
+</section>

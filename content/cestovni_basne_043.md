@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Ta zelená lavina za oknem je les
@@ -15,3 +17,5 @@ ještě větší bezdůvodnost
 proč tedy tolik křičí pode mnou a pod letícími ptáky  
 zelená jako burácivá hudba  
 jako domov_
+
+</section>

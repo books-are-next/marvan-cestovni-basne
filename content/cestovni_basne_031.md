@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Bylo to na sklonku odpoledne
@@ -25,3 +27,5 @@ co všechno musím udělat
 abych mohl odejít  
 oknem které se rozsvítilo uprostřed stínů  
 na stěně s hvězdami_
+
+</section>

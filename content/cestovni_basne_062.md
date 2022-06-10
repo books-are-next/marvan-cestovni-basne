@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Sedím tu jako proud přítomnosti
@@ -18,3 +20,5 @@ svítání je tak chladné
 když zaostří pohled  
 tříštíme se o stěnu všeho co se nestane  
 řidič marně hledá jízdenku_
+
+</section>
