@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Až vás zaplaví smutek strach a na cestě bude stesk
@@ -18,3 +20,5 @@ je to můj uříznutý zdvižený prostředníček
 nenechal jsem ho tam  
 když mě zaplavil smutek strach a na cestě byl stesk  
 byl to můj jediný bratr v tu chvíli_
+
+</section>

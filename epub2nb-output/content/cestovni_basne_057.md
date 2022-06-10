@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Až uvidíte na nebi znamení
@@ -17,3 +19,5 @@ trhaného šílenstvím bohů
 kteří nemohou spát před obrazem sebe samých  
 až uvidíte na nebi znamení  
 tiše sebejistě jděte_
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Včera jsem se dozvěděl
@@ -16,3 +18,5 @@ se přede dvěma lety zastřelil
 napadlo mě  
 proč jsem mu to nemohl oplatit  
 a pak mě napadlo kolikrát jsem se chtěl zastřelit já_
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Snad teď
@@ -22,3 +24,5 @@ jako by se už nikdy nikdo
 neměl narodit  
 z oné záře  
 která taví celé světy_
+
+</section>

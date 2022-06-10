@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Těším se
@@ -23,3 +25,5 @@ kde nezůstávají
 kde se nezastaví  
 budu se smát  
 že svět náhle nevzniká_
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Zase jsme směli vyrazit
@@ -27,3 +29,5 @@ pokaždé když spím
 zase jsme směli vyrazit…  
 jsou to moje sny  
 proč nikdy nemůžu jít sám?_
+
+</section>

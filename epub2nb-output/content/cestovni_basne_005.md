@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Zas je tu prostor plný snů
@@ -27,3 +29,5 @@ slov
 která nic neznamenají  
 a proto jsou tak drahocenná  
 pro nás v zásvětí kterému říkáme život_
+
+</section>

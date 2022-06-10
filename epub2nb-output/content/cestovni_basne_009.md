@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Stará námraza na okně
@@ -15,3 +17,5 @@ střídání příběhů po minutách po záblescích
 znají to vědí a vyhráli všichni  
 šílenci věří  
 že příběhy jsou oni_
+
+</section>

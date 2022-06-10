@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Je to ta chvíle
@@ -20,3 +22,5 @@ vločky sněhu blikají
 jak hluboká může být tma  
 spícího domu za našimi zády  
 aby nás pustili musíme pozdravit_
+
+</section>

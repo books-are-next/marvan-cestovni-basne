@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Chvíli je světelná skvrna oknem
@@ -18,3 +20,5 @@ a nejde jim to
 nejde jim nic  
 vlastně ani tobě  
 a to je ještě hodně v tuhle chvíli_
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Dnes začínají prázdniny
@@ -21,3 +23,5 @@ ani v mlze nad mrtvou vodou řeky
 kde se ztrácejí tři postavy  
 a jednou z nich tou vlevo  
 je každý z nás_
+
+</section>

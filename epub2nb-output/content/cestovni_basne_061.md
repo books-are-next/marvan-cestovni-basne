@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Byli jsme se podívat v domě který pro nás teprve stavěli
@@ -23,3 +25,5 @@ souhlasil jsem i když netušil kde to je
 věřil bych ti i teď  
 kdybych se neprobudil a místo našeho současného domova  
 se pomalu nezdvihlo z mlhy_
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Uřízl jsem ten keř před oknem
@@ -19,3 +21,5 @@ protože tu teď nejsi
 a já si tě chtěl připomenout  
 a taky připomněl těma šílenýma očima ze tmy  
 tam kde v houští svítí dva čerstvé pařízky_
+
+</section>

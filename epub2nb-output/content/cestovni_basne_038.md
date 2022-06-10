@@ -3,6 +3,8 @@ title: Se mnou tě zpátky nepustí
 contentType: prose
 ---
 
+<section>
+
 _Je to jako bych se zrovna probudil  
 ve chvíli kdy jsem nespal  
 co všechno se muselo stát ve vesmíru  
@@ -26,3 +28,5 @@ je jen kousek světla
 to by mohlo být ono  
 ale se mnou tě zpátky nepustí  
 doma je to už bez přízraků_
+
+</section>

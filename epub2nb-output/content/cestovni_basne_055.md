@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 \* \* \*
 
 Tátovi je 80 let mámě 75
@@ -23,3 +25,5 @@ kolik větví výbuchů
 je slyšet prázdnotou jako ticho  
 je tohle skutečnost?  
 kód který nenese žádnou zprávu točí nehybným vesmírem_
+
+</section>
