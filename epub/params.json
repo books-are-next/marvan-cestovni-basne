@@ -25,18 +25,19 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
-      "ignore": "",
-      "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*"
+      "ignore": ""
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "cestovni_basne_001.md",
@@ -96,8 +97,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Cestovní básně"
+            "title": "Cestovní básně",
+            "children": []
           },
           {
             "filename": "cestovni_basne_006.md",
@@ -133,8 +134,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V lesním horku kde se mě snaží zabít konvalinka"
+            "title": "",
+            "children": []
           },
           {
             "filename": "cestovni_basne_009.md",
@@ -290,8 +291,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jako bažina zavírající se mezi námi a sluncem"
+            "title": "",
+            "children": []
           },
           {
             "filename": "cestovni_basne_022.md",
@@ -363,8 +364,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Mrtvý"
+            "title": "",
+            "children": []
           },
           {
             "filename": "cestovni_basne_028.md",
@@ -496,8 +497,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Se mnou tě zpátky nepustí"
+            "title": "",
+            "children": []
           },
           {
             "filename": "cestovni_basne_039.md",
@@ -605,8 +606,8 @@
             "hungry": false,
             "devoured": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Je načase"
+            "title": "",
+            "children": []
           },
           {
             "filename": "cestovni_basne_048.md",
@@ -812,8 +813,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ],
     "replacements": []
@@ -1270,6 +1270,6 @@
       "user": "books-are-next",
       "repo": "marvan-cestovni-basne"
     },
-    "generatedAt": 1654948585624
+    "generatedAt": 1657118941712
   }
 }
