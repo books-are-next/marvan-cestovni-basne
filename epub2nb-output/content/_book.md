@@ -23,21 +23,6 @@ tocBase:
       - link: cestovni_basne_005.html
         title: Cestovní básně
         hiddenTitle: true
-      - link: cestovni_basne_008.html
-        title: "V\_lesním horku kde se mě snaží zabít konvalinka"
-        hiddenTitle: false
-      - link: cestovni_basne_021.html
-        title: "Jako bažina zavírající se mezi námi a\_sluncem"
-        hiddenTitle: false
-      - link: cestovni_basne_027.html
-        title: Mrtvý
-        hiddenTitle: false
-      - link: cestovni_basne_038.html
-        title: Se mnou tě zpátky nepustí
-        hiddenTitle: false
-      - link: cestovni_basne_047.html
-        title: Je načase
-        hiddenTitle: false
     isSection: true
     listType: plain
 static:
