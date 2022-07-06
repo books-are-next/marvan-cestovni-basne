@@ -1,0 +1,88 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Cestovní básně",
+  "author": "Lukáš Marvan",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "marvan-cestovni-basne-9072db6",
+  "revision": "9072db6",
+  "readingOrder": [
+    "promo.html",
+    "cestovni_basne_005.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jul 06 2022 14:50:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657119022163
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "cestovni_basne_005.html",
+      "toc": []
+    },
+    {
+      "title": "Cestovní básně",
+      "file": "cestovni_basne_005.html",
+      "words": 4297,
+      "chars": 22267,
+      "ideas": 936,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 132,
+      "chars": 858,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "cestovni_basne_005.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 4435,
+      "chars": 23160,
+      "ideas": 956
+    },
+    "chapters": {
+      "words": 4297,
+      "chars": 22267,
+      "ideas": 936
+    }
+  }
+}

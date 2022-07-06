@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Cestovní básně",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Lukáš Marvan",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-14T00:00:00.000Z"
+      "modified": "2021-10-14T00:00:00.000Z",
+      "contentType": "poetry",
+      "edition": "poezie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -20,62 +24,67 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "cestovni_basne_001.md",
             "xhtml": "cestovni_basne_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_002.md",
             "xhtml": "cestovni_basne_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_003.md",
             "xhtml": "cestovni_basne_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_004.md",
             "xhtml": "cestovni_basne_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_005.md",
@@ -84,9 +93,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Cestovní básně"
           },
           {
             "filename": "cestovni_basne_006.md",
@@ -96,8 +107,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_007.md",
@@ -107,8 +119,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_008.md",
@@ -118,8 +131,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "V lesním horku kde se mě snaží zabít konvalinka"
           },
           {
             "filename": "cestovni_basne_009.md",
@@ -129,8 +144,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_010.md",
@@ -140,8 +156,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_011.md",
@@ -151,8 +168,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_012.md",
@@ -162,8 +180,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_013.md",
@@ -173,8 +192,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_014.md",
@@ -184,8 +204,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_015.md",
@@ -195,8 +216,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_016.md",
@@ -206,8 +228,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_017.md",
@@ -217,8 +240,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_018.md",
@@ -228,8 +252,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_019.md",
@@ -239,8 +264,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_020.md",
@@ -250,8 +276,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_021.md",
@@ -261,8 +288,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jako bažina zavírající se mezi námi a sluncem"
           },
           {
             "filename": "cestovni_basne_022.md",
@@ -272,8 +301,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_023.md",
@@ -283,8 +313,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_024.md",
@@ -294,8 +325,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_025.md",
@@ -305,8 +337,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_026.md",
@@ -316,8 +349,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_027.md",
@@ -327,8 +361,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Mrtvý"
           },
           {
             "filename": "cestovni_basne_028.md",
@@ -338,8 +374,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_029.md",
@@ -349,8 +386,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_030.md",
@@ -360,8 +398,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_031.md",
@@ -371,8 +410,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_032.md",
@@ -382,8 +422,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_033.md",
@@ -393,8 +434,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_034.md",
@@ -404,8 +446,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_035.md",
@@ -415,8 +458,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_036.md",
@@ -426,8 +470,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_037.md",
@@ -437,8 +482,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_038.md",
@@ -448,8 +494,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Se mnou tě zpátky nepustí"
           },
           {
             "filename": "cestovni_basne_039.md",
@@ -459,8 +507,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_040.md",
@@ -470,8 +519,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_041.md",
@@ -481,8 +531,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_042.md",
@@ -492,8 +543,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_043.md",
@@ -503,8 +555,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_044.md",
@@ -514,8 +567,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_045.md",
@@ -525,8 +579,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_046.md",
@@ -536,8 +591,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_047.md",
@@ -547,8 +603,10 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Je načase"
           },
           {
             "filename": "cestovni_basne_048.md",
@@ -558,8 +616,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_049.md",
@@ -569,8 +628,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_050.md",
@@ -580,8 +640,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_051.md",
@@ -591,8 +652,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_052.md",
@@ -602,8 +664,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_053.md",
@@ -613,8 +676,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_054.md",
@@ -624,8 +688,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_055.md",
@@ -635,8 +700,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_056.md",
@@ -646,8 +712,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_057.md",
@@ -657,8 +724,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_058.md",
@@ -668,8 +736,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_059.md",
@@ -679,8 +748,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_060.md",
@@ -690,8 +760,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_061.md",
@@ -701,8 +772,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_062.md",
@@ -712,8 +784,9 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_063.md",
@@ -723,21 +796,24 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cestovni_basne_064.md",
             "xhtml": "cestovni_basne_064.xhtml",
             "id": 63,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ]
   },
@@ -1193,6 +1269,6 @@
       "user": "books-are-next",
       "repo": "marvan-cestovni-basne"
     },
-    "generatedAt": 1654948585624
+    "generatedAt": 1657118941712
   }
 }
