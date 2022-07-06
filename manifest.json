@@ -8,16 +8,16 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "marvan-cestovni-basne-628cc3b",
-  "revision": "628cc3b",
+  "identifier": "marvan-cestovni-basne-f31ffa6",
+  "revision": "f31ffa6",
   "readingOrder": [
     "promo.html",
     "cestovni_basne_005.html",
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jul 06 2022 15:02:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657119764613
+    "date": "Wed Jul 06 2022 15:43:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657122192174
   },
   "documents": [
     {
@@ -35,9 +35,9 @@
     {
       "title": "Cestovní básně",
       "file": "cestovni_basne_005.html",
-      "words": 4297,
-      "chars": 22267,
-      "ideas": 936,
+      "words": 4322,
+      "chars": 22398,
+      "ideas": 941,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -75,14 +75,14 @@
   ],
   "totals": {
     "all": {
-      "words": 4435,
-      "chars": 23160,
-      "ideas": 956
+      "words": 4460,
+      "chars": 23291,
+      "ideas": 961
     },
     "chapters": {
-      "words": 4297,
-      "chars": 22267,
-      "ideas": 936
+      "words": 4322,
+      "chars": 22398,
+      "ideas": 941
     }
   }
 }

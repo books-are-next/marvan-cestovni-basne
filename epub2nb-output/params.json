@@ -12,7 +12,7 @@
       "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
       "subtitle": "",
       "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
@@ -869,7 +869,7 @@
         "xhtml": "cestovni_basne_007.xhtml"
       },
       {
-        "titleSuggest": "V lesním horku kde se mě snaží zabít konvalinka",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cestovni_basne_008.md",
         "xhtml": "cestovni_basne_008.xhtml"
@@ -947,7 +947,7 @@
         "xhtml": "cestovni_basne_020.xhtml"
       },
       {
-        "titleSuggest": "Jako bažina zavírající se mezi námi a sluncem",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cestovni_basne_021.md",
         "xhtml": "cestovni_basne_021.xhtml"
@@ -983,7 +983,7 @@
         "xhtml": "cestovni_basne_026.xhtml"
       },
       {
-        "titleSuggest": "Mrtvý",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cestovni_basne_027.md",
         "xhtml": "cestovni_basne_027.xhtml"
@@ -1049,7 +1049,7 @@
         "xhtml": "cestovni_basne_037.xhtml"
       },
       {
-        "titleSuggest": "Se mnou tě zpátky nepustí",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cestovni_basne_038.md",
         "xhtml": "cestovni_basne_038.xhtml"
@@ -1103,7 +1103,7 @@
         "xhtml": "cestovni_basne_046.xhtml"
       },
       {
-        "titleSuggest": "Je načase",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cestovni_basne_047.md",
         "xhtml": "cestovni_basne_047.xhtml"
@@ -1269,6 +1269,6 @@
       "user": "books-are-next",
       "repo": "marvan-cestovni-basne"
     },
-    "generatedAt": 1657119634229
+    "generatedAt": 1657122112644
   }
 }

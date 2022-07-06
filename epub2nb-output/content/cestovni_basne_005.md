@@ -1,5 +1,4 @@
 ---
-title: ''
 hiddenTitle: true
 contentType: poetry
 ---
@@ -73,6 +72,8 @@ je to teď
 </section>
 
 <section>
+
+V lesním horku kde se mě snaží zabít konvalinka
 
 Kde se to brodím dechem země  
 a proč tak dlouho spím  
@@ -369,6 +370,8 @@ aby nás pustili musíme pozdravit
 
 <section>
 
+Jako bažina zavírající se mezi námi a sluncem
+
 Proč tolik prcháme  
 školními třídami  
 pokoji ubytoven  
@@ -517,6 +520,8 @@ víc nic
 </section>
 
 <section>
+
+Mrtvý
 
 Ten klient  
 kterého našla ležet v posteli  
@@ -792,6 +797,8 @@ z těch pohybujících se teček
 
 <section>
 
+Se mnou tě zpátky nepustí
+
 Je to jako bych se zrovna probudil  
 ve chvíli kdy jsem nespal  
 co všechno se muselo stát ve vesmíru  
@@ -970,6 +977,8 @@ ještě jednou to jsi ty
 </section>
 
 <section>
+
+Je načase
 
 Některé příběhy jako tento život  
 jsou tak silné  
