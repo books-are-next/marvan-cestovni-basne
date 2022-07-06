@@ -10,7 +10,7 @@ contentType: poetry
 
 Zas je tu prostor plný snů
 
-_černá skříň  
+černá skříň  
 s křídly která hoří  
 zase jsou tu sny plné cest  
 plné chráněných míst  
@@ -29,7 +29,7 @@ kovaný do tvaru štěstí i bolesti na špičce srdce
 slov  
 která nic neznamenají  
 a proto jsou tak drahocenná  
-pro nás v zásvětí kterému říkáme život_
+pro nás v zásvětí kterému říkáme život
 
 </section>
 
@@ -40,11 +40,11 @@ pro nás v zásvětí kterému říkáme život_
 
 Putovat krajinou
 
-_nízko nad vrcholky stromů  
+nízko nad vrcholky stromů  
 o věčných prázdninách v prachu měsíce  
 a spatřit boží tvář  
 usnout jako ona  
-v neporušeném sněhu poslední vesnice_
+v neporušeném sněhu poslední vesnice
 
 </section>
 
@@ -54,7 +54,7 @@ v neporušeném sněhu poslední vesnice_
 
 Usmívají se…
 
-_v noci se mi zase zdálo  
+v noci se mi zase zdálo  
 jak vcházím ze zázračného lesa  
 do statku příbuzných  
 procházím prázdnou návsí  
@@ -68,19 +68,19 @@ a čekám že ti za dveřmi statku příbuzní andělé bratři
 v tělech lidí  
 přijmou můj záblesk jako přijali svůj  
 a budu moci zůstat  
-je to teď_
+je to teď
 
 </section>
 
 <section>
 
-_Kde se to brodím dechem země  
+Kde se to brodím dechem země  
 a proč tak dlouho spím  
 kde se to brodím dechem země  
 jako černým kapradím  
 a proč tak dlouho spím  
 když nikam nelze dojít  
-a ta rudá čára skrze slunce…_
+a ta rudá čára skrze slunce…
 
 </section>
 
@@ -90,14 +90,14 @@ a ta rudá čára skrze slunce…_
 
 Stará námraza na okně
 
-_možná jen prach  
+možná jen prach  
 tisíce příběhů v hlavě  
 věřit věřit věřit  
 na střeše na cestě listy z letošního loňského příštího podzimu  
 střídání příběhů po minutách po záblescích  
 znají to vědí a vyhráli všichni  
 šílenci věří  
-že příběhy jsou oni_
+že příběhy jsou oni
 
 </section>
 
@@ -107,7 +107,7 @@ znají to vědí a vyhráli všichni
 
 Nerozsvěcuj
 
-_včera jsme se zase pohádali  
+včera jsme se zase pohádali  
 pak seděli u večeře a všem třem nám tekly slzy  
 jako když teď venku prší  
 i když protější střecha je tak zářivá  
@@ -124,7 +124,7 @@ hlavou ponořeni v modré zemi
 chodíme sem a tam  
 kroužíme  
 bláto stoupá k nebi  
-jako mrznoucí křišťál_
+jako mrznoucí křišťál
 
 </section>
 
@@ -134,7 +134,7 @@ jako mrznoucí křišťál_
 
 Šel jsem domů
 
-_dlouhá cesta  
+dlouhá cesta  
 ztrácela se mezi řadícími se anděly  
 dlouhá cesta  
 kde nad mrtvými tygry  
@@ -143,7 +143,7 @@ kudy padalo
 a padalo moře  
 šel jsem domů  
 a ptal se proč tam nikdy nedojdu  
-když je to všude_
+když je to všude
 
 </section>
 
@@ -153,7 +153,7 @@ když je to všude_
 
 Zase jsme směli vyrazit
 
-_následujícího dne  
+následujícího dne  
 na nedaleký Orlík  
 vzít s sebou stany  
 udice  
@@ -172,7 +172,7 @@ kam chodí ryby
 pokaždé když spím  
 zase jsme směli vyrazit…  
 jsou to moje sny  
-proč nikdy nemůžu jít sám?_
+proč nikdy nemůžu jít sám?
 
 </section>
 
@@ -182,12 +182,12 @@ proč nikdy nemůžu jít sám?_
 
 Světlo těch kteří se nikdy nevrátí
 
-_prosakuje pode dveřmi  
+prosakuje pode dveřmi  
 tak často  
 že někde (říkám si) musela být chyba  
 ale kde (odpovídám si)  
 když všichni všechno udělali dobře  
-nebo jen já?_
+nebo jen já?
 
 </section>
 
@@ -197,7 +197,7 @@ nebo jen já?_
 
 Promluv
 
-_zas konec dalšího roku  
+zas konec dalšího roku  
 začínám zakopávat o svoje nohy  
 moje máma se dnes ráno ptala mého táty  
 jestli ještě žijí její rodiče  
@@ -216,7 +216,7 @@ pokud nechci
 a tohle svítí  
 víc a víc  
 každé ráno  
-když si věším na krk vltavín_
+když si věším na krk vltavín
 
 </section>
 
@@ -226,7 +226,7 @@ když si věším na krk vltavín_
 
 Jdu kolem stolu
 
-_ze dveří na chodbu  
+ze dveří na chodbu  
 chodbou vedou schody  
 jdu kolem stolu  
 podívám se  
@@ -247,7 +247,7 @@ táhnu pohled zpátky
 jsem včera  
 jdu kolem stolu  
 ze dveří na chodbu  
-po schodech dolů bude dnes_
+po schodech dolů bude dnes
 
 </section>
 
@@ -257,7 +257,7 @@ po schodech dolů bude dnes_
 
 Je to jako vlny příliš nahlas puštěného rádia
 
-_ty nárazy  
+ty nárazy  
 až do míchy a žaludku  
 rány a polibky  
 vaří se květák venku mlha zvuky kuchyně každý pozná  
@@ -273,7 +273,7 @@ to je dobře
 ale lovit zvířata a válčit s nepřátelským kmenem kamennou sekerou nepůjdu  
 i když to neseš jako křivdu  
 nechápu cos kde dělala od té doby  
-co jsme si jako mágové usekli hlavu na astrálním těle a platili za to_
+co jsme si jako mágové usekli hlavu na astrálním těle a platili za to
 
 </section>
 
@@ -283,7 +283,7 @@ co jsme si jako mágové usekli hlavu na astrálním těle a platili za to_
 
 Tímhle lesem vždycky pospícháme
 
-_to přece víš  
+to přece víš  
 na cestu svítí sníh  
 jen sníh  
 je rozsvíceným oknem dnešní noci  
@@ -299,7 +299,7 @@ okolo svých věčných životů
 které jsou tu doma  
 tisíckrát víc než my  
 už se nikdy nedostihneme  
-to přece víš_
+to přece víš
 
 </section>
 
@@ -309,7 +309,7 @@ to přece víš_
 
 Je soumrak
 
-_procházíme živými okny nějakého města  
+procházíme živými okny nějakého města  
 zabloudili jsme autobus  
 jel jinam  
 a teď nás zdraví živí s mrtvými  
@@ -322,7 +322,7 @@ jsme pozváni i propuštěni
 tak jdeme zářícím soumrakem  
 k hranicím  
 za nimiž už nemůže být nic  
-a přes to nás to láká_
+a přes to nás to láká
 
 </section>
 
@@ -332,7 +332,7 @@ a přes to nás to láká_
 
 A koho to máš na sobě přivázaného
 
-_vypadá jako díra do pekla  
+vypadá jako díra do pekla  
 ale peklo žádné díry nemá  
 prostě není  
 sedět u stolu a jíst květákové placičky  
@@ -341,7 +341,7 @@ proto spolu nemůžeme mluvit?
 kvůli dvojčeti předčasně staženému z vesmíru  
 které sedí u oběda vedle mě  
 jako převrácený magnet  
-kterémus dala svou useknutou hlavu?_
+kterémus dala svou useknutou hlavu?
 
 </section>
 
@@ -351,7 +351,7 @@ kterémus dala svou useknutou hlavu?_
 
 Je to ta chvíle
 
-_kdy stojíme na římse  
+kdy stojíme na římse  
 a dolů padá sníh  
 drobounké vločky  
 mizí v hloubce  
@@ -363,13 +363,13 @@ chvíli máma chvíli syn
 vločky sněhu blikají  
 jak hluboká může být tma  
 spícího domu za našimi zády  
-aby nás pustili musíme pozdravit_
+aby nás pustili musíme pozdravit
 
 </section>
 
 <section>
 
-_Proč tolik prcháme  
+Proč tolik prcháme  
 školními třídami  
 pokoji ubytoven  
 proč tolik spíme v smradlavém seně venku  
@@ -389,7 +389,7 @@ proč tolik zmatených lidí
 jako bažina zavírající se mezi námi a sluncem  
 a proč tak málo lesních houštin  
 cizích jako svoboda jako bezpečí  
-jako my sami_
+jako my sami
 
 </section>
 
@@ -399,7 +399,7 @@ jako my sami_
 
 Hrozivé
 
-_děsivé hlubiny lesů  
+děsivé hlubiny lesů  
 tisíc let mrtvá místa lásky  
 žijící v tichu jako obrovité stromy  
 jako proudem řeky letící  
@@ -415,7 +415,7 @@ aby to mrtvé nebylo
 při doteku opravdu mrtvé  
 aby mě poznalo  
 v každé postavě  
-za těmi tisíci okny_
+za těmi tisíci okny
 
 </section>
 
@@ -425,7 +425,7 @@ za těmi tisíci okny_
 
 Za tímhle oknem (z naší strany zaprášeným) pořád prší
 
-_aby nebylo vidět že se nic neděje  
+aby nebylo vidět že se nic neděje  
 je to ta chvíle ve smyčce  
 kdy slyšíš jak  
 vesmír jede své příběhy  
@@ -437,7 +437,7 @@ je to ta chvíle kdy pláčeš jako bys byl za svůj příběh zodpovědný
 vyplivnout tenhle jed se často podaří  
 až po smrti  
 ale to  
-se nepočítá_
+se nepočítá
 
 </section>
 
@@ -447,7 +447,7 @@ se nepočítá_
 
 Dojděte až na konec
 
-_až k místu kde vás má  
+až k místu kde vás má  
 každý rád  
 usedněte do školní lavice  
 jako do koruny stromu  
@@ -462,7 +462,7 @@ dojděte až na konec
 až k místu kde vás má každý rád  
 tam kde se svítí  
 tam kde se přízraky radují  
-že mohou zemřít_
+že mohou zemřít
 
 </section>
 
@@ -472,7 +472,7 @@ tam kde se přízraky radují
 
 A co mě má zajímat
 
-_věčný sen o nočním spěchu probuzeného srdce  
+věčný sen o nočním spěchu probuzeného srdce  
 romantické setkání s blízkou neznámou  
 které má dokázat že patříme do tohoto světa?  
 A co mě má zajímat  
@@ -484,7 +484,7 @@ A co mě má zajímat
 jízdní řád matrixu?  
 který nikdy nikde nevisí  
 a přesto spolehlivě likviduje naše životy  
-o kterých nevíme co to u všech všudy je_
+o kterých nevíme co to u všech všudy je
 
 </section>
 
@@ -494,7 +494,7 @@ o kterých nevíme co to u všech všudy je_
 
 Někde uprostřed
 
-_prázdného vesmíru  
+prázdného vesmíru  
 v tom modrém místě  
 můžeme takhle letět  
 miliony let  
@@ -512,13 +512,13 @@ uprostřed prázdného vesmíru
 můžeme takhle letět miliony let  
 jen tenký pocit v srdci  
 jen to celé modré  
-víc nic_
+víc nic
 
 </section>
 
 <section>
 
-_Ten klient  
+Ten klient  
 kterého našla ležet v posteli  
 měl klidný výraz člověka  
 co měl štěstí  
@@ -539,7 +539,7 @@ dcera na ně křičela
 ať už ho nechají  
 a oni že musí  
 dokud se nenajde ten papír  
-snad ho našli_
+snad ho našli
 
 </section>
 
@@ -549,7 +549,7 @@ snad ho našli_
 
 Své srdce už jsem odevzdal
 
-_můžete je mít  
+můžete je mít  
 kdykoli chcete  
 ve svém srdci  
 v nočním tunelu vždycky osvětleném  
@@ -566,7 +566,7 @@ a já budu moci utíkat
 nočním zmoklým tunelem  
 běžící polobotky  
 na mokrém asfaltu  
-protože takhle se jmenuju_
+protože takhle se jmenuju
 
 </section>
 
@@ -576,7 +576,7 @@ protože takhle se jmenuju_
 
 Těším se
 
-_až znovu poběžím  
+až znovu poběžím  
 tím deštěm a zelené zářivky  
 kde padá světlo a voda  
 se budou míhat  
@@ -591,7 +591,7 @@ jsou doma
 kde nezůstávají  
 kde se nezastaví  
 budu se smát  
-že svět náhle nevzniká_
+že svět náhle nevzniká
 
 </section>
 
@@ -601,7 +601,7 @@ budu se smát
 
 Je to jako průchod ruky papírovou stěnou
 
-_jako záblesky  
+jako záblesky  
 se odehrávají ty scénky  
 jako kapsy  
 jako pasti  
@@ -622,7 +622,7 @@ schůzka proběhne tak rychle
 co se na ní stalo  
 pak probuzení a běžím  
 k slzám nad zářivkami  
-mám plné zuby tohoto světa_
+mám plné zuby tohoto světa
 
 </section>
 
@@ -632,7 +632,7 @@ mám plné zuby tohoto světa_
 
 Bylo to na sklonku odpoledne
 
-_jedné zdejší vzdálené zimy  
+jedné zdejší vzdálené zimy  
 viděl jsem ležící věci na stole  
 před sebou  
 stále přistávat  
@@ -649,7 +649,7 @@ jedna hvězda vedle druhé do poslední
 co všechno musím udělat  
 abych mohl odejít  
 oknem které se rozsvítilo uprostřed stínů  
-na stěně s hvězdami_
+na stěně s hvězdami
 
 </section>
 
@@ -659,7 +659,7 @@ na stěně s hvězdami_
 
 Snad teď
 
-_chtěl bych se už konečně probudit  
+chtěl bych se už konečně probudit  
 mimo tenhle svět  
 za okny mírně ztemnělými  
 ponořenými v obloze  
@@ -673,7 +673,7 @@ plout s celým domem v povětří
 jako by se už nikdy nikdo  
 neměl narodit  
 z oné záře  
-která taví celé světy_
+která taví celé světy
 
 </section>
 
@@ -683,14 +683,14 @@ která taví celé světy_
 
 Proč se všechny ty věci
 
-_náhle zdvihají proti mně  
+náhle zdvihají proti mně  
 když tak nádherně spí  
 jsou tu všechny  
 něžně přítomny jediným rozmachem okna  
 můžeme jít vstříc  
 aniž bychom udělali jediný krok  
 tichý telefon  
-láska je stvořena ze všeho kolem tebe_
+láska je stvořena ze všeho kolem tebe
 
 </section>
 
@@ -700,7 +700,7 @@ láska je stvořena ze všeho kolem tebe_
 
 Když nesvítí slunce
 
-_neobjevují se žádné obrazy  
+neobjevují se žádné obrazy  
 žádné dveře se ve stěně neotevřou  
 žádné stíny se neodváží  
 vyjít ze zdi  
@@ -711,7 +711,7 @@ se nezazubí
 jen zvuky vědí kudy uniknout  
 odkudkoli se dotknout srdce  
 a lidé kteří na nás mávají ze dna moře  
-se jen usmívají_
+se jen usmívají
 
 </section>
 
@@ -721,7 +721,7 @@ se jen usmívají_
 
 Skvrny světla na zdi protějšího domu
 
-_mě zdraví jako starého známého  
+mě zdraví jako starého známého  
 dům se usmívá  
 širokými okny  
 jak mám snést tolik přátelství  
@@ -733,7 +733,7 @@ zde
 a nyní  
 smrt se dá jednoduše přežít  
 v zrcadle není místo  
-pro nic jiného_
+pro nic jiného
 
 </section>
 
@@ -743,7 +743,7 @@ pro nic jiného_
 
 Jeden z nás spí a druhý
 
-_mu to tiše závidí  
+mu to tiše závidí  
 z nějakého důvodu  
 sedím za psacím stolem  
 a nedokážu zahlédnout  
@@ -762,7 +762,7 @@ když tělo je tu stále méně přítomno
 skoro si mě nevšímá  
 hradba ze slunce a stromořadí  
 končí někde vzadu  
-rostliny za oknem jsou tázavé a znepokojené_
+rostliny za oknem jsou tázavé a znepokojené
 
 </section>
 
@@ -772,7 +772,7 @@ rostliny za oknem jsou tázavé a znepokojené_
 
 Tak rychle tiše
 
-_než dozní hudba  
+než dozní hudba  
 vytratit se zevnitř  
 tohoto příběhu  
 v šeru před rozedněním  
@@ -786,13 +786,13 @@ ve vodě tak studené
 a už nikdy  
 nikdy  
 nebýt sebou ani v jediné  
-z těch pohybujících se teček_
+z těch pohybujících se teček
 
 </section>
 
 <section>
 
-_Je to jako bych se zrovna probudil  
+Je to jako bych se zrovna probudil  
 ve chvíli kdy jsem nespal  
 co všechno se muselo stát ve vesmíru  
 abych seděl v téhle kanceláři  
@@ -814,7 +814,7 @@ který chceš zvednout
 je jen kousek světla  
 to by mohlo být ono  
 ale se mnou tě zpátky nepustí  
-doma je to už bez přízraků_
+doma je to už bez přízraků
 
 </section>
 
@@ -824,11 +824,11 @@ doma je to už bez přízraků_
 
 Kam ráno pluje Ústí nad Labem
 
-_město na stěnách rokle  
+město na stěnách rokle  
 kde se svítí  
 kde ze dna se dá lehce dotknout hladiny  
 pod rukou do řeky tečou mraky  
-a přes náměstí letí zkratkou horský pták_
+a přes náměstí letí zkratkou horský pták
 
 </section>
 
@@ -838,7 +838,7 @@ a přes náměstí letí zkratkou horský pták_
 
 Strach strach neklid
 
-_nosím to v sobě  
+nosím to v sobě  
 jako vejce ve kterém roste nějaký pták nebo jídlo  
 kdykoli vyjdu na chodbu  
 někdo se ke mně přidá nebo telefonuje  
@@ -853,7 +853,7 @@ nosím to v sobě jako všechno ostatní nejsou nijak zlí
 dějí se  
 jen neusnout  
 a nenechat se odnést vlnou  
-pak zas nenajdu díru v obloze ani dveře_
+pak zas nenajdu díru v obloze ani dveře
 
 </section>
 
@@ -863,7 +863,7 @@ pak zas nenajdu díru v obloze ani dveře_
 
 Chvíli je světelná skvrna oknem
 
-_hořící ploutví  
+hořící ploutví  
 kohosi na druhé straně zdi  
 vypadá to jako přítomnost  
 ale celá situace je lež  
@@ -873,7 +873,7 @@ pokoušejí se žít smrt
 a nejde jim to  
 nejde jim nic  
 vlastně ani tobě  
-a to je ještě hodně v tuhle chvíli_
+a to je ještě hodně v tuhle chvíli
 
 </section>
 
@@ -883,14 +883,14 @@ a to je ještě hodně v tuhle chvíli_
 
 _(Zdeňku Volfovi)_
 
-_A tak jsem často ve střehu  
+A tak jsem často ve střehu  
 před vlastní milovanou ženou  
 ne proto že bych byl nevěrný  
 ale proto že chci zůstat věrný  
 a tak jsem často ve střehu  
 před vlastní milovanou ženou  
 která toho už tolik pochopila a nahlédla  
-naše příležitostná smrt se zdá být neporazitelnou_
+naše příležitostná smrt se zdá být neporazitelnou
 
 </section>
 
@@ -900,14 +900,14 @@ naše příležitostná smrt se zdá být neporazitelnou_
 
 Ta zelená lavina za oknem je les
 
-_uvnitř vypadá jako prázdná chodba  
+uvnitř vypadá jako prázdná chodba  
 u dna není žádná odpověď  
 a směrem vzhůru  
 kudy teče země se vzduchem  
 ještě větší bezdůvodnost  
 proč tedy tolik křičí pode mnou a pod letícími ptáky  
 zelená jako burácivá hudba  
-jako domov_
+jako domov
 
 </section>
 
@@ -917,12 +917,12 @@ jako domov_
 
 Chuchvalce lesa s chuchvalci mraků
 
-_leží tam venku jako bratři  
+leží tam venku jako bratři  
 titěrní ptáci nesou vzduch kamsi za ně  
 a ukrývají za modrou zářící tmu  
 slunce mě pálí do zad  
 a vyhání stíny ze všeho čeho se dotkne  
-ahoj_
+ahoj
 
 </section>
 
@@ -932,7 +932,7 @@ ahoj_
 
 Kde jste mí andělé
 
-_když tu čekám jak mělo se stát  
+když tu čekám jak mělo se stát  
 už sám  
 jen s láskou k sobě  
 a jak ta bílá stropní světla na mě zírají  
@@ -948,7 +948,7 @@ kde jste abyste ničili
 ve vzduchu zůstane jen trocha hudby jako zapomenutý nábytek  
 kde jste mí hrdinové v řetězci záblesků kterému se říká JÁ  
 není tu ani žádná žena  
-nenechte mě jít ji hledat_
+nenechte mě jít ji hledat
 
 </section>
 
@@ -958,20 +958,20 @@ nenechte mě jít ji hledat_
 
 Chtěl ses probudit do tak jasného rána jako když ti bylo pět
 
-_chtěl ses probudit a mít zas všechno  
+chtěl ses probudit a mít zas všechno  
 s kývající se borovou větví  
 i tráva kvete i vzduch  
 když se rozhlédneš  
 včela zatuhlá v okně o které se tříští hejno much  
 ale další den už má svůj pytel přes hlavu  
 a ten pytel to jsi ty  
-ještě jednou to jsi ty_
+ještě jednou to jsi ty
 
 </section>
 
 <section>
 
-_Některé příběhy jako tento život  
+Některé příběhy jako tento život  
 jsou tak silné  
 že je ze sebe můžeme strhat  
 jen s masem do kterého jsme oblečeni  
@@ -980,7 +980,7 @@ jsou tak prolhané že vůbec neexistují
 i když jsou tím jediným co máme  
 některé příběhy jako tento život  
 nejsou vůbec příběhy  
-jen nějakým špatně osvětleným průchodem kamsi_
+jen nějakým špatně osvětleným průchodem kamsi
 
 </section>
 
@@ -990,7 +990,7 @@ jen nějakým špatně osvětleným průchodem kamsi_
 
 Včera jsem se dozvěděl
 
-_že kamarád který mi v dětství zachránil život  
+že kamarád který mi v dětství zachránil život  
 podal mi větev  
 a pomohl z vody pod jezem  
 (ležel jsem pak chvíli na břehu v bahně v hejnu mušek  
@@ -998,7 +998,7 @@ vyděšený ze smrti)
 se přede dvěma lety zastřelil  
 napadlo mě  
 proč jsem mu to nemohl oplatit  
-a pak mě napadlo kolikrát jsem se chtěl zastřelit já_
+a pak mě napadlo kolikrát jsem se chtěl zastřelit já
 
 </section>
 
@@ -1008,7 +1008,7 @@ a pak mě napadlo kolikrát jsem se chtěl zastřelit já_
 
 Dnes začínají prázdniny
 
-_to je ta chvíle kdy je třeba odejít  
+to je ta chvíle kdy je třeba odejít  
 škvírou tenkou jako papír  
 na němž se podvedeným dětem rozdává vysvědčení  
 odejít ranní nocí prázdnou v místě ztuhlém překvapením  
@@ -1021,7 +1021,7 @@ ani tam na kraji lesa kde začíná záře
 ani v mlze nad mrtvou vodou řeky  
 kde se ztrácejí tři postavy  
 a jednou z nich tou vlevo  
-je každý z nás_
+je každý z nás
 
 </section>
 
@@ -1031,7 +1031,7 @@ je každý z nás_
 
 Konec prázdnin
 
-_dneska se zabíjí  
+dneska se zabíjí  
 v záři slunce a očekávání  
 děti jdou do školy aby zemřely  
 s obrovským kornoutem bonbonů a zářivou taškou  
@@ -1042,7 +1042,7 @@ se seřadí
 aby jejich lidství bylo zastrašováno uráženo tupeno  
 až tam kde zmizí všechna krajina  
 kde zmizí svět  
-a zbudou jen civící oči_
+a zbudou jen civící oči
 
 </section>
 
@@ -1052,7 +1052,7 @@ a zbudou jen civící oči_
 
 Uřízl jsem ten keř před oknem
 
-_co vypadal jako vlasy  
+co vypadal jako vlasy  
 abys viděla na vrch Vysoký ostrý  
 táhl jsem dva pahýly dolů zahradou  
 jako ten třetí  
@@ -1063,7 +1063,7 @@ uřízl jsem tedy ten keř jak jsi chtěla
 protože tu teď nejsi  
 a já si tě chtěl připomenout  
 a taky připomněl těma šílenýma očima ze tmy  
-tam kde v houští svítí dva čerstvé pařízky_
+tam kde v houští svítí dva čerstvé pařízky
 
 </section>
 
@@ -1073,7 +1073,7 @@ tam kde v houští svítí dva čerstvé pařízky_
 
 Na stole v kanceláři
 
-_mi leží květovaná igelitka  
+mi leží květovaná igelitka  
 jsou v ní šaty do rakve  
 a peníze na pohřeb  
 pro švagrovou (57) která umřela na lodi  
@@ -1088,7 +1088,7 @@ tělo zemřelé převzala pohřební služba v neděli na letišti
 a sdělila že ho nesmíme vidět  
 protože už je po termínu  
 řeč psát nebudu  
-je po termínu a stálo by tam jen ahoj_
+je po termínu a stálo by tam jen ahoj
 
 </section>
 
@@ -1098,7 +1098,7 @@ je po termínu a stálo by tam jen ahoj_
 
 Vrať se na začátek tou chodbou kterou jsi prošel
 
-_dokud ještě žije  
+dokud ještě žije  
 i vchod do mého pokoje už je tak úzký  
 že se jím sotva protáhnu ke svému psacímu stolu  
 lidé které potkávám  
@@ -1112,7 +1112,7 @@ dokud spojení není navázáno
 a schody k domovu se někde tam nahoře v mrtvém dřevě  
 bortí jako hromada krabic  
 dokud jsou bohové v zrcadle mrtví  
-a děti ještě neumějí mluvit_
+a děti ještě neumějí mluvit
 
 </section>
 
@@ -1122,14 +1122,14 @@ a děti ještě neumějí mluvit_
 
 Už zase umírají mouchy
 
-_na parapetech  
+na parapetech  
 v tenhle podzimní den  
 už zase podzimní  
 kdo vysává život z much  
 v klášteře v tropech jsem si nevšiml  
 díval jsem se jen  
 kdo a kde ho vysává ze mě  
-světlo šedne_
+světlo šedne
 
 </section>
 
@@ -1139,7 +1139,7 @@ světlo šedne_
 
 Tátovi je 80 let mámě 75
 
-_mně 53  
+mně 53  
 je tohle skutečnost?  
 když jsem se narodil  
 bylo tátovi 27 mámě 22  
@@ -1154,7 +1154,7 @@ fontána těla skrz prales
 kolik větví výbuchů  
 je slyšet prázdnotou jako ticho  
 je tohle skutečnost?  
-kód který nenese žádnou zprávu točí nehybným vesmírem_
+kód který nenese žádnou zprávu točí nehybným vesmírem
 
 </section>
 
@@ -1164,7 +1164,7 @@ kód který nenese žádnou zprávu točí nehybným vesmírem_
 
 Nechám se
 
-_jednorukou dívkou  
+jednorukou dívkou  
 protáhnout tunelem smrti  
 až tam kde je jedno oko modré a druhé červené  
 a ruce nemají význam  
@@ -1172,7 +1172,7 @@ v místě kde rosteme ze země
 jako obilí  
 řeknu její bezeslovné jméno pozpátku  
 a obilí přestane hořet  
-řeknu_
+řeknu
 
 </section>
 
@@ -1182,7 +1182,7 @@ a obilí přestane hořet
 
 Až uvidíte na nebi znamení
 
-_tygra slona úlomek zubu nebo cokoli jiného  
+tygra slona úlomek zubu nebo cokoli jiného  
 budu už v proudu řeky  
 nesen skrze příběhy k dalšímu slepému rameni  
 až uvidíte na nebi znamení  
@@ -1191,7 +1191,7 @@ jen krev z mého nebo vašeho nezničitelného srdce
 trhaného šílenstvím bohů  
 kteří nemohou spát před obrazem sebe samých  
 až uvidíte na nebi znamení  
-tiše sebejistě jděte_
+tiše sebejistě jděte
 
 </section>
 
@@ -1201,7 +1201,7 @@ tiše sebejistě jděte_
 
 Až vás zaplaví smutek strach a na cestě bude stesk
 
-_můžete se zastavit na obloze nebo kdekoli právě budete  
+můžete se zastavit na obloze nebo kdekoli právě budete  
 a nadechnout se krve všeho přítomného  
 až po cestě přijdete na to místo v lese nebo kdekoli  
 které je rozlehlé  
@@ -1211,7 +1211,7 @@ co tu v písku borového zálivu chybí
 je to můj uříznutý zdvižený prostředníček  
 nenechal jsem ho tam  
 když mě zaplavil smutek strach a na cestě byl stesk  
-byl to můj jediný bratr v tu chvíli_
+byl to můj jediný bratr v tu chvíli
 
 </section>
 
@@ -1221,7 +1221,7 @@ byl to můj jediný bratr v tu chvíli_
 
 V tomhle místě nerad někoho potkávám
 
-_natož rodinu se psem  
+natož rodinu se psem  
 co nevím jestli se zdravíme  
 v tomhle místě chci myslet nahlas  
 protože uvnitř hlavy jako v zamčeném pokoji  
@@ -1240,7 +1240,7 @@ v tomhle místě nerad někoho potkávám
 protože mě to může probudit  
 a pak mě dlouho tlačí křivá matrace  
 ale klidně jděte  
-serte na to_
+serte na to
 
 </section>
 
@@ -1250,7 +1250,7 @@ serte na to_
 
 Ano je to ona
 
-_černá luna  
+černá luna  
 déšť řítící se za oknem  
 nemá chuť jablka  
 které zrovna jím  
@@ -1263,7 +1263,7 @@ zatímco ona černá useknutá hlava
 se nechá jen opustit se zdviženýma rukama  
 až déšť řítící se za oknem  
 zas bude mít chuť jablka  
-které zrovna jím_
+které zrovna jím
 
 </section>
 
@@ -1273,7 +1273,7 @@ které zrovna jím_
 
 Byli jsme se podívat v domě který pro nás teprve stavěli
 
-_hladilas jeho schodiště  
+hladilas jeho schodiště  
 tak jak se hladí milovaný člověk  
 živě se zvedala a rostla nám před očima  
 až po střechu nad naší hlavou v podobě mírného úsměvu  
@@ -1288,7 +1288,7 @@ kde bydlíme teď
 souhlasil jsem i když netušil kde to je  
 věřil bych ti i teď  
 kdybych se neprobudil a místo našeho současného domova  
-se pomalu nezdvihlo z mlhy_
+se pomalu nezdvihlo z mlhy
 
 </section>
 
@@ -1298,7 +1298,7 @@ se pomalu nezdvihlo z mlhy_
 
 Sedím tu jako proud přítomnosti
 
-_kterou nelze chytit za ruce  
+kterou nelze chytit za ruce  
 jako jednorukou dívku  
 Dokud se v jejích očích nedá nic přečíst  
 je tma  
@@ -1308,7 +1308,7 @@ svítání je tak chladné
 že zebe i protéza  
 když zaostří pohled  
 tříštíme se o stěnu všeho co se nestane  
-řidič marně hledá jízdenku_
+řidič marně hledá jízdenku
 
 </section>
 
@@ -1318,7 +1318,7 @@ tříštíme se o stěnu všeho co se nestane
 
 Vy kdož procházíte deštivou ulicí
 
-_sedíte v jejích trolejbusech  
+sedíte v jejích trolejbusech  
 stejně jako já  
 nepřítomně řídíte rozjetá auta v gejzírech vody  
 stejně jako já  
@@ -1340,6 +1340,6 @@ ani víko notebooku
 protože u všech smrčků na zahradě není nic okolo a není  
 nic uvnitř  
 to všechno jste vy  
-stejně jako já_
+stejně jako já
 
 </section>
