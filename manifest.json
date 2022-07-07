@@ -8,16 +8,16 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "marvan-cestovni-basne-f31ffa6",
-  "revision": "f31ffa6",
+  "identifier": "marvan-cestovni-basne-501d82f",
+  "revision": "501d82f",
   "readingOrder": [
     "promo.html",
     "cestovni_basne_005.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Jul 06 2022 15:43:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657122192174
+    "date": "Thu Jul 07 2022 08:33:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182814907
   },
   "documents": [
     {
@@ -41,7 +41,7 @@
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -54,11 +54,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 132,
       "chars": 858,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "cestovni_basne_005.html",
       "next": null,
