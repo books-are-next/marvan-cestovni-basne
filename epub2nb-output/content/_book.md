@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   edition: poezie
   publisherShort: mkp
+  isbn: 978-80-274-2156-5
 readingOrder:
   - promo.html
   - cestovni_basne_005.html

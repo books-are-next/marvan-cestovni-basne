@@ -9,7 +9,8 @@
       "modified": "2021-10-14T00:00:00.000Z",
       "contentType": "poetry",
       "edition": "poezie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "isbn": "978-80-274-2156-5"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -1269,6 +1270,6 @@
       "user": "books-are-next",
       "repo": "marvan-cestovni-basne"
     },
-    "generatedAt": 1658413572917
+    "generatedAt": 1659362709525
   }
 }
