@@ -9,7 +9,8 @@
       "modified": "2021-10-14T00:00:00.000Z",
       "contentType": "poetry",
       "edition": "poezie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "isbn": "978-80-274-2156-5"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -870,7 +871,7 @@
         "xhtml": "cestovni_basne_007.xhtml"
       },
       {
-        "titleSuggest": "V lesním horku kde se mě snaží zabít konvalinka",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cestovni_basne_008.md",
         "xhtml": "cestovni_basne_008.xhtml"
@@ -948,7 +949,7 @@
         "xhtml": "cestovni_basne_020.xhtml"
       },
       {
-        "titleSuggest": "Jako bažina zavírající se mezi námi a sluncem",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cestovni_basne_021.md",
         "xhtml": "cestovni_basne_021.xhtml"
@@ -984,7 +985,7 @@
         "xhtml": "cestovni_basne_026.xhtml"
       },
       {
-        "titleSuggest": "Mrtvý",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cestovni_basne_027.md",
         "xhtml": "cestovni_basne_027.xhtml"
@@ -1050,7 +1051,7 @@
         "xhtml": "cestovni_basne_037.xhtml"
       },
       {
-        "titleSuggest": "Se mnou tě zpátky nepustí",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cestovni_basne_038.md",
         "xhtml": "cestovni_basne_038.xhtml"
@@ -1104,7 +1105,7 @@
         "xhtml": "cestovni_basne_046.xhtml"
       },
       {
-        "titleSuggest": "Je načase",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cestovni_basne_047.md",
         "xhtml": "cestovni_basne_047.xhtml"
@@ -1270,6 +1271,6 @@
       "user": "books-are-next",
       "repo": "marvan-cestovni-basne"
     },
-    "generatedAt": 1657119634229
+    "generatedAt": 1658413572917
   }
 }
