@@ -8,16 +8,16 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "marvan-cestovni-basne-60d4708",
-  "revision": "60d4708",
+  "identifier": "marvan-cestovni-basne-c607cab",
+  "revision": "c607cab",
   "readingOrder": [
     "promo.html",
     "cestovni_basne_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:52:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150766379
+    "date": "Mon Oct 10 2022 15:45:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416716117
   },
   "documents": [
     {
@@ -56,7 +56,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 896,
+      "chars": 897,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -76,7 +76,7 @@
   "totals": {
     "all": {
       "words": 4462,
-      "chars": 23329,
+      "chars": 23330,
       "ideas": 960
     },
     "chapters": {
